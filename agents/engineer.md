@@ -1,7 +1,7 @@
 ---
 description: Executes and implements tasks
 mode: subagent
-model: lmstudio/qwen3.5-9b-mtp@q6_k
+model: lmstudio/qwen/qwen3.5-9b
 step: 25
 permission:
   task: deny
