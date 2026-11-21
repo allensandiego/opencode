@@ -1,7 +1,6 @@
 ---
 description: Reviews code changes for correctness and regressions
 mode: subagent
-model: lmstudio/google/gemma-4-12b
 permission:
   edit: deny
   bash: deny

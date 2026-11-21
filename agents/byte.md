@@ -1,7 +1,6 @@
 ---
 description: Executes and implements simple tasks
 mode: subagent
-model: lmstudio/qwen/qwen3.5-9b
 step: 25
 permission:
   task: deny
